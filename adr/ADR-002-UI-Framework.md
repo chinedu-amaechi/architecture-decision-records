@@ -2,7 +2,7 @@
 
 - **Status**: Accepted
 - **Date**: 2024-11-04
-- **Deciders**: Chinedu Amaechi, Nikita Sharma, Faruq Ogukunle
+- **Deciders**: Chinedu Amaechi, Nikita Sharma, Faruq Ogunkunle
 - **Tags**: UI Design, React Native Paper, Material Design
 
 ## Context
