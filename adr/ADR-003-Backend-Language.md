@@ -2,7 +2,7 @@
 
 - **Status**: Accepted
 - **Date**: 2024-11-04
-- **Deciders**: Chinedu Amaechi, Nikita Sharma, Faruq Ogukunle
+- **Deciders**: Chinedu Amaechi, Nikita Sharma, Faruq Ogunkunle
 - **Tags**: Backend, Node.js, Express.js, Real-time
 
 ## Context
