@@ -2,7 +2,7 @@
 
 - **Status**: Accepted
 - **Date**: 2024-10-20
-- **Deciders**: Chinedu Amaechi, Natalia Hassan
+- **Deciders**: Chinedu Amaechi, NiKita Sharma and Faruq Ogunkunle
 - **Tags**: App Type, React Native, Cross-platform
 
 ## Context
