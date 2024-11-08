@@ -1,7 +1,7 @@
 # ADR-001: Choose App Type (Native, Web, or Hybrid)
 
 - **Status**: Accepted
-- **Date**: 2024-10-20
+- **Date**: 2024-11-04
 - **Deciders**: Chinedu Amaechi, NiKita Sharma and Faruq Ogunkunle
 - **Tags**: App Type, React Native, Cross-platform
 
